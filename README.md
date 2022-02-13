@@ -3,5 +3,6 @@ This repository contains a Python application to pull time entries from Toggl in
 
 Contents: 
 
--Jupyter Notebook
--Python Script
+-Jupyter Notebook (.ipynb)
+-Python Script (.py)
+-PBI Report (.pbix)
