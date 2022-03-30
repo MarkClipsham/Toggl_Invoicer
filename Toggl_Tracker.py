@@ -13,7 +13,7 @@ import json
 
 # %%
 #toggl api token
-toggl_api_token = '22c9bb5eb8a7c8ae391418ed3b48e0bc'
+toggl_api_token = 'XXX'
 string = toggl_api_token + ':api_token'
 #conversion to base64 encoding and classification of bse64 as headers variable 
 headers = {
